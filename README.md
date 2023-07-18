@@ -20,7 +20,7 @@ Feel free to reach out to me through any of the following channels:
 
 - **Email:** [1823977035@qq.com](mailto:1823977035@qq.com) *(You can replace this email with your preferred email)*
 - **WeiXin:** [xiekuncc](#)
-- **Personal Blog:** [xhtlove.cn](https://xhtlove.cn) *(Feel free to customize this domain with your personal blog)*
+- **Personal Blog:** [xhtlove.cn](http://xhtlove.cn) *(Feel free to customize this domain with your personal blog)*
 
 ## 🚀 Open Source Contributions
 
